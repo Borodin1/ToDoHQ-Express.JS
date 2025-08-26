@@ -6,6 +6,7 @@
     // "outDir": "./dist",
     "outDir": "./dist",
     "rootDir": "./src",
+    "esModuleInterop": true,
     "baseUrl": "./src",
     "paths": {
       "@config/*": [
